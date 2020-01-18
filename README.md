@@ -1,5 +1,5 @@
 # Python Challenge Solutions
-### Simple program that provides answers to the Python Challenge by Nadav Samet in addition to stepping users through each challenge. I made this mostly for myself so that I could break down each challenge and make it a learning exercise.
+### Simple program that provides answers to the Python Challenge by Nadav Samet in addition to stepping users through each challenge. I made this mostly for myself, so that I could break down each challenge and make it a learning exercise.
 ___
 # Set UP
 ### 1) Clone repo or download files.
