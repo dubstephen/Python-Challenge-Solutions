@@ -4,4 +4,4 @@ idna==2.8
 Pillow==6.2.1
 pyfiglet==0.8.post1
 requests==2.22.0
-urllib3==1.25.7
+urllib3==1.25.8
